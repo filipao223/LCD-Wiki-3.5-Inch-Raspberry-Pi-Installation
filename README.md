@@ -9,7 +9,7 @@ For this guide, I specifically had a problem requiring the screen be rotated 180
 ## 🧾 Requirements
 
 - Raspberry Pi (any model with GPIO, although for this guide, a RPi 3B+ with 512MB of RAM was used)
-- MHS-3.5” LCD (from http://www.lcdwiki.com/MHS-3.5inch_RPi_Display)
+- MHS-3.5” LCD (from [LCD Wiki](http://www.lcdwiki.com/MHS-3.5inch_RPi_Display))
 - Raspberry Pi OS 32-bit image (Full Desktop version, better support than 64 bit)
 
 ---
